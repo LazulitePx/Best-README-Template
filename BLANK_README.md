@@ -93,6 +93,7 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 
 ### Built With
 
+* [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
